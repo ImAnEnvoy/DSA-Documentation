@@ -24,3 +24,19 @@ State the tool(s) used for creation the project e.g
 ### Exploratory Data Analysis (EDA)
 
 ### Data Analysis
+
+### You can also add some code under analysis
+
+``` SQL
+    update Employee
+    set LastName = 'Abubakar'
+    where staffid = 'AB234'
+    
+    update salary
+    set department = 'Information Tech'
+    where staffid = 'AB223'
+    
+    UPDATE salary
+    SET Staffid = 'AB350'
+    WHERE Staffid = 'AB401'
+
